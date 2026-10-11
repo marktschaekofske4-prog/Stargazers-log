@@ -1,0 +1,20 @@
+[
+  {
+    "name": "octocat/Spoon-Knife",
+    "url": "https://github.com/octocat/Spoon-Knife",
+    "description": "A sample repository for practicing with GitHub.",
+    "starred_at": "2025-03-14"
+  },
+  {
+    "name": "github/docs",
+    "url": "https://github.com/github/docs",
+    "description": "The open-source documentation for GitHub.",
+    "starred_at": "2025-02-20"
+  },
+  {
+    "name": "microsoft/TypeScript",
+    "url": "https://github.com/microsoft/TypeScript",
+    "description": "TypeScript is a strongly typed programming language that builds on JavaScript.",
+    "starred_at": "2025-01-08"
+  }
+]
